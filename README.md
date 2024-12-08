@@ -9,12 +9,10 @@
 #### This research focuses on developing an *AI-powered smartphone application* to improve the quality of life for *Alzheimer's patients* and their *caregivers. The project aims to address critical challenges faced by patients, including cognitive decline, emotional distress, and difficulty adhering to daily routines. By leveraging advanced technologies like **Natural Language Processing (NLP), **speech recognition, and **machine learning*, the system provides a holistic approach to Alzheimer's care.
 
 # Dependencies
-      firebase_core: Core functionality for Firebase.
-      firebase_auth: For user authentication.
-      cloud_firestore: For Cloud Firestore database to store user data and application information.
-      firebase_messaging: For push notifications.
-      firebase_storage: For storing user-uploaded content (e.g., photos, documents).
-   - *Python*: For machine learning and AI-related tasks.
-     - flask: For creating the back-end API (if needed).
-     - firebase-admin: To connect Firebase services with the back-end (Python).
+Front-End Development*
+*Flutter*: A UI toolkit for building natively compiled applications for mobile from a single codebase.
+flutter: The main dependency for the framework.
+*Dart*: The programming language used by Flutter.
+dart: The core dependency for Dart language features and compiler.
+
 
