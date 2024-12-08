@@ -8,7 +8,7 @@
 ### Member 3 - IT21215292 - Madhusanka J.A.A. (ashen0909)/ Component 3 - Visual and Auditory Reminders on Adherence to Daily Routines in Alzheimer's Patients
 ### Member 4 - IT21231100 - Sandaruwan W.M.I.M. (ImalMS)/ Component 4 -Emotional Well-being for Alzheimer's Patients through AI-Driven Personalization and Social Connections
 
-#### This research focuses on developing an *AI-powered smartphone application* to improve the quality of life for *Alzheimer's patients* and their *caregivers. The project aims to address critical challenges faced by patients, including cognitive decline, emotional distress, and difficulty adhering to daily routines. By leveraging advanced technologies like **Natural Language Processing (NLP), **speech recognition, and **machine learning*, the system provides a holistic approach to Alzheimer's care.
+#### This research focuses on developing an *AI-powered smartphone application* to improve the quality of life for *Alzheimer's patients* and their *caregivers. The project aims to address critical challenges faced by patients, including cognitive decline, emotional distress, and difficulty adhering to daily routines. By leveraging advanced technologies like *Natural Language Processing (NLP), **speech recognition, and **machine learning*, the system provides a holistic approach to Alzheimer's care.
 
 # System Architectural Diagram
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/7c5a35a0-6153-406e-8d88-480d629015ac)
