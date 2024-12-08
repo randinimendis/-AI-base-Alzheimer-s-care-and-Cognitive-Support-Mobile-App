@@ -8,7 +8,12 @@
 
 #### This research focuses on developing an *AI-powered smartphone application* to improve the quality of life for *Alzheimer's patients* and their *caregivers. The project aims to address critical challenges faced by patients, including cognitive decline, emotional distress, and difficulty adhering to daily routines. By leveraging advanced technologies like **Natural Language Processing (NLP), **speech recognition, and **machine learning*, the system provides a holistic approach to Alzheimer's care.
 
+# System Architectural Diagram
+
+
 # Dependencies
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/7c5a35a0-6153-406e-8d88-480d629015ac)
+
 
 #### Front-End Development*
    - *Flutter*: A UI toolkit for building natively compiled applications for mobile from a single codebase.
