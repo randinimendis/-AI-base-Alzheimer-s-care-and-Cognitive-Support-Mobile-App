@@ -1,4 +1,4 @@
-# 24-25J-304
+#  AI base Alzheimer's care and Cognitive Support Mobile App - 24-25J-304
 # Reserch - 24-25J-304
 
 ### Group Leader - IT21228094 - Mendis A.R.P. (randinimendis)
