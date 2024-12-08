@@ -1,6 +1,6 @@
 # Overview of the Project
 # Repository Link - https://github.com/randinimendis/-AI-base-Alzheimer-s-care-and-Cognitive-Support-Mobile-App
-# Research Topic - AI base Alzheimer's care and Cognitive Support Mobile App - 24-25J-304
+# Research Topic - AI base Alzheimer's care and Cognitive Support Mobile App 
 # Project ID - 24-25J-304
 
 ### Group Leader - IT21228094 - Mendis A.R.P. (randinimendis)/ Component 1 -Monitor Alzheimer's symptoms using cognitive activities.
