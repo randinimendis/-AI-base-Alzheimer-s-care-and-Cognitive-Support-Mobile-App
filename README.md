@@ -35,6 +35,42 @@
    - *Speech Recognition*: Tools for processing and recognizing speech patterns.
      - speech_recognition: A library to perform speech-to-text conversion and analyze speech.
      - pyaudio: For capturing audio input for real-time speech recognition.
+####  *Data Analytics and Pattern Recognition*
+   - *Pandas*: For data manipulation and analysis, especially useful for tracking cognitive scores and analyzing trends.
+     - pandas: For handling data frames and performing statistical analysis.
+   - *NumPy*: For numerical computing, especially when dealing with large datasets from speech analysis or game score tracking.
+     - numpy: For numerical array handling.
+   - *Scikit-learn*: For machine learning models, particularly for prediction and classification tasks like early detection of cognitive decline.
+     - scikit-learn: For classification, regression, and clustering algorithms.
+    
+###  *Database & Cloud Services*
+   - *SQLite*: A lightweight SQL database for storing app-related data locally on the device (for offline functionality).
+     - sqflite: For SQLite database integration in Flutter.
+   - *Cloud Storage*: Firebase Storage or a similar service for storing media and user-generated content.
+     - firebase_storage: For managing file storage.
 
+###  *User Interface Enhancements*
+   - *Flutter Packages*: For additional UI elements and accessibility features.
+     - flutter_local_notifications: For visual and auditory reminders/notifications for medication or routines.
+     - provider: For state management in Flutter, handling user data and updates in real-time.
+     - flutter_tts: For text-to-speech functionality, useful for reminders or feedback.
+     - cached_network_image: For efficient image loading from network sources (e.g., medication images).
+
+###  *Security and Privacy*
+   - *Encryption*: Libraries to ensure user data is stored securely.
+     - crypto: For encrypting sensitive data.
+     - flutter_secure_storage: For securely storing tokens, passwords, and other sensitive information on the device.
+
+###  *Real-Time Communication & Notifications*
+   - *Firebase Cloud Messaging (FCM)*: For push notifications to users and caregivers regarding reminders, updates, or alerts.
+     - firebase_messaging: For sending and receiving notifications.
+   - *WebSockets (Optional)*: For real-time communication between caregivers and patients.
+     - web_socket_channel: To enable real-time data exchange.
+
+###  *Testing and Debugging*
+   - *Flutter Testing Tools*: For unit testing and integration testing within the Flutter framework.
+     - flutter_test: For testing Flutter widgets and functionality.
+   - *Mocking and Dependency Injection*: For testing various back-end services.
+     - mockito: For mocking dependencies during tests.
 
 
