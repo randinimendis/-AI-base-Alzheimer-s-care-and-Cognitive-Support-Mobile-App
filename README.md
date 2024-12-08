@@ -10,8 +10,6 @@
 
 #### This research aims to develop an AI-powered smartphone application to improve the quality of life for Alzheimer's patients and their caregivers by leveraging advanced technologies such as Natural Language Processing (NLP), speech recognition, and machine learning. The app offers a comprehensive solution by integrating cognitive tracking, emotional well-being support, and routine management into one platform. It includes features like Cognitive Activity Monitoring, which tracks patients' cognitive abilities using tasks like the Clock-Drawing Test and Cube & Pyramid Copying Task, as well as Emotional Well-being Support, which uses AI-driven mood analysis to provide personalized recommendations like music therapy and social interaction prompts. Additionally, the app helps patients adhere to their daily routines and medication schedules with visual and auditory reminders, along with an innovative medicine photo recognition system. 
 
-The primary goal of the research is to create a cost-effective and accessible mobile solution that enhances early detection and monitoring of cognitive decline while promoting emotional and cognitive well-being. Through the integration of technologies such as Flutter, Firebase, Python, and TensorFlow, the app provides real-time assistance, personalized support, and detailed feedback for patients, caregivers, and clinicians. With its user-friendly interface and AI-driven features, this app aims to streamline the management of Alzheimer's care, improve routine adherence, and foster emotional support, ultimately offering a holistic approach to caregiving. The target users—patients, caregivers, and clinicians—will benefit from enhanced care coordination, personalized interventions, and continuous progress monitoring.
-
 # System Architectural Diagram
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/7c5a35a0-6153-406e-8d88-480d629015ac)
 
@@ -41,7 +39,7 @@ The primary goal of the research is to create a cost-effective and accessible mo
    - *Speech Recognition*: Tools for processing and recognizing speech patterns.
      - speech_recognition: A library to perform speech-to-text conversion and analyze speech.
      - pyaudio: For capturing audio input for real-time speech recognition.
-####  *Data Analytics and Pattern Recognition
+####  Data Analytics and Pattern Recognition
    - *Pandas*: For data manipulation and analysis, especially useful for tracking cognitive scores and analyzing trends.
      - pandas: For handling data frames and performing statistical analysis.
    - *NumPy*: For numerical computing, especially when dealing with large datasets from speech analysis or game score tracking.
@@ -49,31 +47,31 @@ The primary goal of the research is to create a cost-effective and accessible mo
    - *Scikit-learn*: For machine learning models, particularly for prediction and classification tasks like early detection of cognitive decline.
      - scikit-learn: For classification, regression, and clustering algorithms.
     
-###  *Database & Cloud Services
+###  Database & Cloud Services
    - *SQLite*: A lightweight SQL database for storing app-related data locally on the device (for offline functionality).
      - sqflite: For SQLite database integration in Flutter.
    - *Cloud Storage*: Firebase Storage or a similar service for storing media and user-generated content.
      - firebase_storage: For managing file storage.
 
-###  *User Interface Enhancements
+###  User Interface Enhancements
    - *Flutter Packages*: For additional UI elements and accessibility features.
      - flutter_local_notifications: For visual and auditory reminders/notifications for medication or routines.
      - provider: For state management in Flutter, handling user data and updates in real-time.
      - flutter_tts: For text-to-speech functionality, useful for reminders or feedback.
      - cached_network_image: For efficient image loading from network sources (e.g., medication images).
 
-###  *Security and Privacy
+###  Security and Privacy
    - *Encryption*: Libraries to ensure user data is stored securely.
      - crypto: For encrypting sensitive data.
      - flutter_secure_storage: For securely storing tokens, passwords, and other sensitive information on the device.
 
-###  *Real-Time Communication & Notifications
+###  Real-Time Communication & Notifications
    - *Firebase Cloud Messaging (FCM)*: For push notifications to users and caregivers regarding reminders, updates, or alerts.
      - firebase_messaging: For sending and receiving notifications.
    - *WebSockets (Optional)*: For real-time communication between caregivers and patients.
      - web_socket_channel: To enable real-time data exchange.
 
-###  *Testing and Debugging
+###  Testing and Debugging
    - *Flutter Testing Tools*: For unit testing and integration testing within the Flutter framework.
      - flutter_test: For testing Flutter widgets and functionality.
    - *Mocking and Dependency Injection*: For testing various back-end services.
