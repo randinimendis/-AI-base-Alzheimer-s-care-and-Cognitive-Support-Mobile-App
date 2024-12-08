@@ -25,5 +25,16 @@
    - *Python*: For machine learning and AI-related tasks.
      - flask: For creating the back-end API (if needed).
      - firebase-admin: To connect Firebase services with the back-end (Python).
+#### AI & Machine Learning*
+   - *TensorFlow*: A machine learning library for building and training models, especially useful for speech and image recognition.
+     - tensorflow: For implementing machine learning models such as speech analysis, pattern recognition, and emotion detection.
+     - tensorflow_hub: For pre-trained models if needed for NLP or other AI tasks.
+   - *NLP Models*: Natural Language Processing models for speech analysis and AI-based assistant functionality.
+     - transformers: A popular NLP library for using pre-trained transformer models like BERT or GPT for speech processing and analysis.
+     - nltk: Natural Language Toolkit for text processing and sentiment analysis.
+   - *Speech Recognition*: Tools for processing and recognizing speech patterns.
+     - speech_recognition: A library to perform speech-to-text conversion and analyze speech.
+     - pyaudio: For capturing audio input for real-time speech recognition.
+
 
 
