@@ -10,7 +10,7 @@
 
 # Dependencies
 Front-End Development*
-*Flutter*: A UI toolkit for building natively compiled applications for mobile from a single codebase.
+#### Flutter*: A UI toolkit for building natively compiled applications for mobile from a single codebase.
 flutter: The main dependency for the framework.
 *Dart*: The programming language used by Flutter.
 dart: The core dependency for Dart language features and compiler.
